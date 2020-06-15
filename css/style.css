@@ -1,0 +1,69 @@
+body{
+	margin: 0;
+}
+.container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.logo_wrap {
+	width: 200px;
+	margin: auto;
+}
+.logo {
+	width: 100%;
+	height: auto;
+}
+.bgcolor1{
+	background-color: white;
+}
+h1{
+    font-size: 50px;
+    text-align-last: center;
+    margin: 0;
+    padding: 50px
+}
+.color1{
+	color: red;
+}
+.color2{
+	color: seagreen;
+}
+.color3{
+	color: skyblue;
+}
+.color4{
+	color: red;
+}
+.color5{
+	color: purple;
+}  
+
+.post{
+height:100px
+background-color: red;
+}
+
+h2{
+	margin: 0;
+	width: 100px;
+}
+
+p{
+	margin: 0;
+	font-size: 20px;
+	padding: 30px;
+	line-height: 1.6;
+	text-align: justify;
+}
+.post{
+height: 100px;
+}
+.bgcolor2 {
+	background-color: green;
+}
+h3{
+	font-size: xx-large;
+	text-align: center;
+	color: white;
+}
